@@ -9,6 +9,9 @@ les opérations :
   - Supprimer Client
   - Cloturer Compte
 
+# Aperçu
+![eBank](https://user-images.githubusercontent.com/63449913/148842169-e2d9f0ec-c01a-4ebb-92b7-ea410d017eaa.JPG)
+
 
 Github (Code Source): https://github.com/UUinc/GestionDeComptesBancaires
 
