@@ -1,11 +1,3 @@
-/*
-▁ ▂ ▃ ▄ ▅ ▆ ▇ ▌　Projet développé par  ▌ ▇ ▆ ▅ ▄ ▃ ▂ ▁
-
-                     LAZREK YAHYA
-                    ZEGDAOUI NOUFEL
-                 AHMED-LAAZIZ ZAKARIAE
-
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
